@@ -1,0 +1,6 @@
+[submodule "rust-sound-card-code"]
+	path = Rust-sound-card-code
+	url = git@github.com:JosefUtbult/Rust-sound-card-code.git
+[submodule "Rust-sound-card-schematics"]
+	path = Rust-sound-card-schematics
+	url = git@github.com:JosefUtbult/Rust-sound-card-schematics.git
